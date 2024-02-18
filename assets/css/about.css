@@ -1,0 +1,26 @@
+.afterHeaderText {
+  position: absolute;
+  top: 30%;
+  left: 36%;
+  color: white;
+  font-size: xx-large;
+  text-align: center;
+}
+.container {
+  height: 400px;
+}
+.ceoPara {
+  padding: 50px;
+}
+.ceoPara p {
+  margin-top: 50px;
+}
+.ceo img {
+  width: 50%;
+  border-radius: 50%;
+  margin-top: 30px;
+}
+.ceo {
+  padding: 50px;
+  text-align: center;
+}

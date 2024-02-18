@@ -1,0 +1,31 @@
+body {
+  overflow: hidden;
+}
+
+hr {
+  border: 1px solid #f1f1f1;
+  margin-bottom: 25px;
+  margin-top: 10px;
+}
+button {
+  background-color: #04aa6d;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+}
+
+button:hover {
+  opacity: 1;
+}
+
+.container {
+  margin: 60px 15% 0;
+}
+form {
+  border: 1px solid #ccc;
+  padding: 50px;
+}

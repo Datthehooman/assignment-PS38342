@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  height: 1800px;
+}
+
+.sectionTitle {
+  padding: 30px;
+}
+
+.hero-image {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("../electronic-store-hero-image.jpg");
+
+  height: 500px;
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.hero-text {
+  position: absolute;
+  top: 50%;
+  left: 30%;
+  color: white;
+  font-size: xx-large;
+}
+
+.cate {
+  height: 400px;
+}
+
+.linkLogo {
+  border-radius: 50%;
+  width: 20%;
+  max-width: 30px;
+}
+
+.links {
+  float: left;
+  position: fixed;
+  margin: 10px 42% 0 45%;
+}
+.link {
+  display: inline;
+  margin-left: 2%;
+  cursor: pointer;
+}
+
+.salePrice {
+  font-size: 2em;
+}
